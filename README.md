@@ -1,25 +1,19 @@
 ## mpeardev-react-practice
 
-##### Mini practice projects 
+##### Mini practice projects
 
 ### Tools:
 
 ###### — React | Bootstrap
 
-### Run Project:
-    test
-    test
-    test
+### Code:
 
-
-### NETWORKS 
-    Web:      test
-    facebook: test
+###### — View/Edit code on [StackBlitz](https://stackblitz.com/edit/mpeardev-react-practice)
 
 ### Deployed:
 
-###### — View on [StackBlitz](https://mpeardev-react-practice.stackblitz.io)
+###### — View page on [StackBlitz](https://mpeardev-react-practice.stackblitz.io)
 
 <br />
 
-*By: MPearDev*
+_By: MPearDev_
