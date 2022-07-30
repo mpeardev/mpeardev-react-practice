@@ -1,3 +1,11 @@
-# mpeardev-react-practice
+## mpeardev-react-practice
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/mpeardev-react-practice)
+#### Mini proyectos de practica 
+
+##### Tools:
+
+React | Bootstrap
+
+##### Deploy:
+
+View on [Stackblitz Site](https://mpeardev-react-practice.stackblitz.io)
