@@ -6,7 +6,13 @@
 
 ###### — React | Bootstrap
 
-### Deploy:
+### Run Project:
+
+  test
+  test
+  test
+
+### Deployed:
 
 ###### — View on [StackBlitz](https://mpeardev-react-practice.stackblitz.io)
 
