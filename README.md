@@ -8,7 +8,7 @@
 
 ### Deploy:
 
-###### — View on [Stackblitz Site](https://mpeardev-react-practice.stackblitz.io)
+###### — View on [StackBlitz](https://mpeardev-react-practice.stackblitz.io)
 
 <br />
 
