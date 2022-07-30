@@ -6,12 +6,12 @@
 
 ### Tools:
 
-###### React | Bootstrap
+###### — React | Bootstrap
 
 <br />
 
 ### Deploy:
 
-###### View on [Stackblitz Site](https://mpeardev-react-practice.stackblitz.io)
+###### — View on [Stackblitz Site](https://mpeardev-react-practice.stackblitz.io)
 
 *By: MPearDev*
