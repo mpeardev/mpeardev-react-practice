@@ -4,15 +4,16 @@
 
 ### Tools:
 
-###### — React | Bootstrap
+    React
+    Bootstrap
 
 ### Code:
 
-###### — View/Edit code on [StackBlitz](https://stackblitz.com/edit/mpeardev-react-practice)
+    View/Edit code on [StackBlitz](https://stackblitz.com/edit/mpeardev-react-practice)
 
 ### Deployed:
 
-###### — View page on [StackBlitz](https://mpeardev-react-practice.stackblitz.io)
+    View page on [StackBlitz](https://mpeardev-react-practice.stackblitz.io)
 
 <br />
 
