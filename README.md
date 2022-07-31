@@ -1,6 +1,8 @@
 ## mpeardev-react-practice
 
-###### Mini practice projects
+Mini practice projects
+
+<br />
 
 ### Tools:
 
@@ -9,12 +11,12 @@
 
 ### Code:
 
-    View/Edit code on [StackBlitz](https://stackblitz.com/edit/mpeardev-react-practice)
+###### — View/Edit code on [StackBlitz](https://stackblitz.com/edit/mpeardev-react-practice)
 
 ### Deployed:
 
-    View page on [StackBlitz](https://mpeardev-react-practice.stackblitz.io)
+###### — View page on [StackBlitz](https://mpeardev-react-practice.stackblitz.io)
 
 <br />
 
-###### _By: MPearDev_
+_By: MPearDev_
