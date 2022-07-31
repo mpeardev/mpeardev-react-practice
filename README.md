@@ -1,6 +1,6 @@
 ## mpeardev-react-practice
 
-Mini practice projects
+###### Mini practice projects
 
 ### Tools:
 
@@ -17,4 +17,4 @@ Mini practice projects
 
 <br />
 
-_By: MPearDev_
+###### _By: MPearDev_
