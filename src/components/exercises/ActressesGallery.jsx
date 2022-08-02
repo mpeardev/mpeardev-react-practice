@@ -35,6 +35,13 @@ export const ActressesGallery = () => {
               </span>
             );
           })}
+          <span
+            className="badge text-bg-dark m-1"
+            style={{ cursor: 'pointer' }}
+            onClick={() => setActressesArr(actresses)}
+          >
+            All
+          </span>
         </div>
 
         <div className="container">

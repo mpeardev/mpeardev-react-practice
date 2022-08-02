@@ -15,6 +15,9 @@ export const Main = () => {
         <li className="list-group-item">
           <Link to="quotes">Quotes List</Link>
         </li>
+        <li className="list-group-item">
+          <Link to="ref">Example Ref</Link>
+        </li>
       </ul>
     </>
   );
