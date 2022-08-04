@@ -1,6 +1,6 @@
 ## mpeardev-react-practice
 
-Mini practice projects to review React concepts. 
+Mini practice projects to review some React concepts and some testing libraries. 
 
 <br />
 

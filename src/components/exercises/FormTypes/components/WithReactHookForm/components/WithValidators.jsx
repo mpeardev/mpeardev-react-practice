@@ -98,16 +98,6 @@ export const WithValidators = () => {
         </div>
       </form>
 
-      {/* <div className="alert alert-success mt-3">
-        <h6>
-          Name: <small className="text-success">{sendData?.name}</small>
-        </h6>
-        <hr />
-        <h6>
-          Email: <small className="text-success">{sendData?.email}</small>
-        </h6>
-      </div> */}
-
       <div className="alert alert-warning">
         <code>
           Data sent: <br />
