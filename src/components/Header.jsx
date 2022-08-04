@@ -6,7 +6,9 @@ export const Header = () => {
     <header>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
-          <h2 className="navbar-brand text-info"><NavLink to="/">React Practice</NavLink></h2>
+          <h2 className="navbar-brand text-info">
+            <NavLink to="/">React Practice</NavLink>
+          </h2>
           <button
             className="navbar-toggler"
             type="button"
@@ -29,9 +31,6 @@ export const Header = () => {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <a className="nav-link"></a>
-              </li>
-              <li className="nav-item">
                 <NavLink
                   to="quotes"
                   className={({ isActive }) =>
@@ -39,6 +38,16 @@ export const Header = () => {
                   }
                 >
                   Quotes List
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink
+                  to="forms"
+                  className={({ isActive }) =>
+                    isActive ? 'nav-link active' : 'nav-link'
+                  }
+                >
+                  Form Types
                 </NavLink>
               </li>
             </ul>
