@@ -5,7 +5,7 @@ export const Controlled = () => {
   const [sendData, setSendData] = useState();
 
   return (
-    <div className="container p-5">
+    <div className="container p-2 mt-5">
       <div className="row">
         <h4  className="mb-4 display-6">Controlled</h4>
         <div className="card bg-light p-4">

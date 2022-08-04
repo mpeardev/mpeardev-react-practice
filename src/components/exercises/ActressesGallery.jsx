@@ -45,7 +45,7 @@ export const ActressesGallery = () => {
         </div>
 
         <div className="container">
-          <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+          <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5">
             {actressesArr.map((actress) => {
               return (
                 <div className="col" key={actress.id}>

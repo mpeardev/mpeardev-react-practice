@@ -4,7 +4,7 @@ export const NotControlled = () => {
   const [NCFormData, setNCFormData] = useState();
 
   return (
-    <div className="container p-5">
+    <div className="container p-2 mt-5">
       <div className="row">
         <h4 className="mb-4 display-6">Not Controlled</h4>
         <div className="card bg-light p-4">
