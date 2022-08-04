@@ -39,10 +39,19 @@ export const QuotesList = () => {
       <h1 className="text-center">Breaking bad Quotes</h1>
       <hr />
 
-      <button className="btn btn-dark mt-3" onClick={getData}>
-        getData
-      </button>
-      <hr />
+      <div className="alert alert-success">
+        <p className="lead text-center">
+          Press{' '}
+          <strong
+            style={{ cursor: 'pointer' }}
+            className="link-info"
+            onClick={getData}
+          >
+            here
+          </strong>{' '}
+          to get data to Breaking bad API
+        </p>
+      </div>
 
       <div className="container">
         {quotesArr.length !== 0 && (

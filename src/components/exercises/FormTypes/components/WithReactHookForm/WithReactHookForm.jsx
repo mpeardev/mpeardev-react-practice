@@ -6,7 +6,7 @@ export const WithReactHookForm = () => {
   return (
     <div className="container p-5">
       <div className="row">
-        <h4>With React Hook Form</h4>
+        <h4 className="mb-4 display-6">With React Hook Form</h4>
         <WithoutValidators />
         <WithValidators />
       </div>

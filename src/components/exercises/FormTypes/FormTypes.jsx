@@ -7,7 +7,7 @@ import { WithReactHookForm } from '../FormTypes/components/WithReactHookForm/Wit
 export const FormTypes = () => {
   return (
     <>
-      <h1>Form Types</h1>
+      <h1 className="text-center">Form Types</h1>
       <hr />
 
       <div className="alert alert-secondary">

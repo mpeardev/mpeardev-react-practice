@@ -7,7 +7,7 @@ export const Controlled = () => {
   return (
     <div className="container p-5">
       <div className="row">
-        <h4>Controlled</h4>
+        <h4  className="mb-4 display-6">Controlled</h4>
         <div className="card bg-light p-4">
           <form
             onSubmit={(e) => {
