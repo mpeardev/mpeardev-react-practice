@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 export const QuotesList = () => {
   const [quotesArr, setQuotesArr] = useState([]);
@@ -79,7 +79,7 @@ export const QuotesList = () => {
         )}
 
         <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-          {quotesArrToImp.map(({ quote_id, quote, author }) => {
+          {quotesArrToImp && quotesArrToImp.map(({ quote_id, quote, author }) => {
             return (
               <div className="col" key={quote_id}>
                 <div className="alert alert-info">

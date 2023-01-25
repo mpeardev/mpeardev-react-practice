@@ -1,9 +1,9 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { Main } from '../Main';
-import { ActressesGallery } from '/src/modules/actresses';
-import { QuotesList } from '/src/modules/quotes';
-import { FormTypes } from '/src/modules/forms';
+import { ActressesGallery } from '../modules/actresses';
+import { QuotesList } from '../modules/quotes';
+import { FormTypes } from '../modules/forms';
 
 export const Router = () => {
   return (
