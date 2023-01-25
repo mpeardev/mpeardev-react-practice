@@ -1,8 +1,10 @@
 import React from 'react';
-import { Controlled } from '../FormTypes/components/Controlled';
-import { NotControlled } from '../FormTypes/components/NotControlled';
-import { Controlled } from '../FormTypes/components/Controlled';
-import { WithReactHookForm } from '../FormTypes/components/WithReactHookForm/WithReactHookForm';
+import {
+  Controlled,
+  NotControlled,
+  Controlled,
+  WithReactHookForm,
+} from './components';
 
 export const FormTypes = () => {
   return (

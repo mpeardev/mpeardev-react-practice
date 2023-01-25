@@ -1,6 +1,5 @@
 import React from 'react';
-import { WithoutValidators } from '../../../FormTypes/components/WithReactHookForm/components/WithoutValidators';
-import { WithValidators } from '../../../FormTypes/components/WithReactHookForm/components/WithValidators';
+import { WithoutValidators, WithValidators } from '.';
 
 export const WithReactHookForm = () => {
   return (

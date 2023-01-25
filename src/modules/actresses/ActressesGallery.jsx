@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import actresses from '../../data/actresses';
+import actresses from './data/actresses.js';
 
 export const ActressesGallery = () => {
   const [actressesArr, setActressesArr] = useState(actresses);
