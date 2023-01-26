@@ -4,7 +4,7 @@ import { Main } from '../Main';
 import { ActressesGallery } from '../modules/actresses';
 import { QuotesList } from '../modules/quotes';
 import { FormTypes } from '../modules/forms';
-import { TicTac } from '../modules/tictac';
+import { TicTacToe } from '../modules/tictactoe';
 
 export const Router = () => {
   return (
@@ -14,7 +14,7 @@ export const Router = () => {
         <Route path="actresses" element={<ActressesGallery />} />
         <Route path="quotes" element={<QuotesList />} />
         <Route path="forms" element={<FormTypes />} />
-        <Route path="tictac" element={<TicTac />} />
+        <Route path="tictactoe" element={<TicTacToe />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </>

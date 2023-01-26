@@ -19,7 +19,7 @@ export const Main = () => {
           <Link to="forms">Form Types</Link>
         </li>
         <li className="list-group-item">
-          <Link to="tictac">Tic-Tac</Link>
+          <Link to="tictactoe">Tic-Tac-Toe</Link>
         </li>
       </ul>
     </>
