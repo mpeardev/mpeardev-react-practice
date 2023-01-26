@@ -79,18 +79,21 @@ export const QuotesList = () => {
         )}
 
         <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-          {quotesArrToImp && quotesArrToImp.map(({ quote_id, quote, author }) => {
-            return (
-              <div className="col" key={quote_id}>
-                <div className="alert alert-info">
-                  <blockquote className="blockquote text-end">
-                    <p className="mb-1">{quote}</p>
-                    <footer className="blockquote-footer mt-4">{author}</footer>
-                  </blockquote>
+          {quotesArrToImp &&
+            quotesArrToImp.map(({ quote_id, quote, author }) => {
+              return (
+                <div className="col" key={quote_id}>
+                  <div className="alert alert-info">
+                    <blockquote className="blockquote text-end">
+                      <p className="mb-1">{quote}</p>
+                      <footer className="blockquote-footer mt-4">
+                        {author}
+                      </footer>
+                    </blockquote>
+                  </div>
                 </div>
-              </div>
-            );
-          })}
+              );
+            })}
         </div>
       </div>
     </>

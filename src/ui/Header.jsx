@@ -50,6 +50,16 @@ export const Header = () => {
                   Form Types
                 </NavLink>
               </li>
+              <li className="nav-item">
+                <NavLink
+                  to="tictac"
+                  className={({ isActive }) =>
+                    isActive ? 'nav-link active' : 'nav-link'
+                  }
+                >
+                  Tic-Tac
+                </NavLink>
+              </li>
             </ul>
           </div>
         </div>

@@ -18,6 +18,9 @@ export const Main = () => {
         <li className="list-group-item">
           <Link to="forms">Form Types</Link>
         </li>
+        <li className="list-group-item">
+          <Link to="tictac">Tic-Tac</Link>
+        </li>
       </ul>
     </>
   );
